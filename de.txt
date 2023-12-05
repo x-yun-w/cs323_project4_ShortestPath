@@ -1,0 +1,162 @@
+Entering initialTree () method
+Before swap data1 and data2 are: 7, 2
+After swap data1 and data2 are: 2, 7
+Printing the Root Node
+ (7, -1, -1, 2, -1, null, null) 
+Exiting initialTree () method
+Entering build23Tree () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, -1, 7
+In findSpot (): data is already in Spot’s keys, no need to search further!
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, -1, 2
+in build23Tree (), printing Spot info: 
+(7, -1, -1, 2, -1, null, null) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(7, -1, -1, 2, -1, null, null) 
+(2, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 2
+Entering spotHas2kidCase () method
+In spotHas2kidCase () method; Spot’s rank is: -1
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas2kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 2, 7, 12
+in build23Tree (), printing Spot info: 
+(2, 7, -1, 2, -1, 7, null) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(2, 7, -1, 2, -1, 7, null) 
+(12, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 3
+Entering spotHas3kidCase () method
+In spotHas3kidCase () method; Spot’s rank is: -1
+Entering updateKeys () method
+Leaving updateKeys () method
+Entering updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving updateKeys () method
+Entering makeNewRoot () method
+Leaving makeNewRoot () method
+Leaving spotHas3kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, -1, 8
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 12, -1, 8
+in build23Tree (), printing Spot info: 
+(12, -1, 2, 7, -1, null, 7) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(12, -1, 2, 7, -1, null, 7) 
+(8, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 2
+Entering spotHas2kidCase () method
+In spotHas2kidCase () method; Spot’s rank is: 2
+Entering updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas2kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, -1, 7
+In findSpot (): data is already in Spot’s keys, no need to search further!
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, -1, 19
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 8, 12, 19
+in build23Tree (), printing Spot info: 
+(8, 12, 2, 7, -1, 12, 7) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(8, 12, 2, 7, -1, 12, 7) 
+(19, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 3
+Entering spotHas3kidCase () method
+In spotHas3kidCase () method; Spot’s rank is: 2
+Entering updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving updateKeys () method
+Entering updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving updateKeys () method
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(7, -1, -1, 2, -1, null, null) 
+(19, -1, 5, 12, -1, null, null) 
+In treeInsert () method; Spot kids count is: 2
+Entering spotHas2kidCase () method
+In spotHas2kidCase () method; Spot’s rank is: -1
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas2kidCase () method
+Leaving treeInsert () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas3kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, 12, 5
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 2, -1, 5
+in build23Tree (), printing Spot info: 
+(2, -1, 1, 2, -1, null, 7) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(2, -1, 1, 2, -1, null, 7) 
+(5, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 2
+Entering spotHas2kidCase () method
+In spotHas2kidCase () method; Spot’s rank is: 1
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas2kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, 12, 16
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 19, -1, 16
+in build23Tree (), printing Spot info: 
+(19, -1, 3, 12, -1, null, 7) 
+Entering treeInsert () method.
+In treeInsert (). Printing Spot and newNode info.
+(19, -1, 3, 12, -1, null, 7) 
+(16, -1, 5, null, null, null, null) 
+In treeInsert () method; Spot kids count is: 2
+Entering spotHas2kidCase () method
+In spotHas2kidCase () method; Spot’s rank is: 3
+Entering updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving updateKeys () method
+Entering updateKeys () method
+Leaving updateKeys () method
+Leaving spotHas2kidCase () method
+Leaving treeInsert () method
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 7, 12, 8
+Entering findSpot () method 
+Spot's key1 and key2 and data are: 8, -1, 8
+In findSpot (): data is already in Spot’s keys, no need to search further!
+In build23Tree; printing preOrder () after one treeInsert: 
+(7, 12, -1, 2, -1, 16, null) 
+(2, 5, 1, 2, -1, 5, 7) 
+(2, -1, 1, null, null, null, 2) 
+(2, -1, 2, null, null, null, 2) 
+(5, -1, 3, null, null, null, 2) 
+(8, -1, 2, 7, -1, null, 7) 
+(7, -1, 1, null, null, null, 8) 
+(8, -1, 2, null, null, null, 8) 
+(16, 19, 3, 12, -1, 19, 7) 
+(12, -1, 1, null, null, null, 16) 
+(16, -1, 2, null, null, null, 16) 
+(19, -1, 3, null, null, null, 16) 
